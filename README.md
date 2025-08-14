@@ -1,5 +1,5 @@
 # Yann Loscos  
-*Game Programmer*
+*Senior Game Programmer*
 
 ---
 
