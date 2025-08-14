@@ -1,5 +1,5 @@
 # Yann Loscos  
-_Game Programmer 
+*Game Programmer*
 
 ---
 
@@ -71,9 +71,9 @@ Ambitious open-world action-adventure game. The last public trailer (2014) still
 Worked as a service provider on multiple small games/apps for mobile.  
 Often developed solo, with ~1 week per project.  
 
-<iframe width="100%" height="450" src="https://www.youtube.com/watch?v=GwcrrssmkgA" frameborder="0" allowfullscreen></iframe>  
-<iframe width="100%" height="450" src="https://www.youtube.com/watch?v=UjGP6I_gu2U" frameborder="0" allowfullscreen></iframe>  
-<iframe width="100%" height="450" src="https://www.youtube.com/watch?v=WHzWvo5O8WY" frameborder="0" allowfullscreen></iframe>
+[![Project 1](https://img.youtube.com/vi/GwcrrssmkgA/0.jpg)](https://www.youtube.com/watch?v=GwcrrssmkgA)  
+[![Project 2](https://img.youtube.com/vi/UjGP6I_gu2U/0.jpg)](https://www.youtube.com/watch?v=UjGP6I_gu2U)  
+[![Project 3](https://img.youtube.com/vi/WHzWvo5O8WY/0.jpg)](https://www.youtube.com/watch?v=WHzWvo5O8WY)
  
 **Tools used:** Unity / C# / Git / Corona SDK / Lua
 
