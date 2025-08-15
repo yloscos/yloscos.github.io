@@ -3,6 +3,9 @@
 
 ---
 
+[![Download CV](https://img.shields.io/badge/📄_Download_My_CV-blue?style=for-the-badge)](https://github.com/YannLoscos/portfolio/raw/main/assets/cv/Yann_LOSCOS_GPP_CV_2025.pdf)
+
+---
 ## Skills  
 **C++** • **Git** • **Perforce** • **Unreal Engine** • **C#** • **Python** • **Lua**
 
