@@ -3,7 +3,7 @@
 
 ---
 
-[![Download CV](https://img.shields.io/badge/📄_Download_My_CV-blue?style=for-the-badge)](https://github.com/yloscos/yloscos.github.io/raw/main/assets/cv/Yann_LOSCOS_GPP_CV_2025.pdf)
+[![Download CV](https://img.shields.io/badge/📄_Download_My_CV-blue?style=for-the-badge)](https://github.com/yloscos/yloscos.github.io/raw/main/assets/cv/CV_Yann_Loscos_EN_2025.pdf)
 
 ---
 ## Skills  
